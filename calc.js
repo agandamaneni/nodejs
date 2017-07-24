@@ -7,6 +7,6 @@ function sub(a,  b){
 }
 
 module.exports = {
-    add : add,
+    add : add, 
     sub : sub 
 }
